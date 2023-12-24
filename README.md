@@ -1,4 +1,4 @@
-#MAGIC: Malware Behaviour Analysis and Impact Quantification through Signature Co-occurrence and Regression
+# MAGIC: Malware Behaviour Analysis and Impact Quantification through Signature Co-occurrence and Regression
 
 The dataset includes limited samples, which include sample identifier, signature identifier, mark count, and signature severity score, along with the impact score computed using our scoring method.
 **_dataset-103_sample_ - File consists of Signature Scores of 100 ransomware samples**
